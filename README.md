@@ -1,1 +1,0 @@
-# PaySDK-PHP
